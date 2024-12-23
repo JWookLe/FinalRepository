@@ -6,6 +6,7 @@ public class a {
 		// TODO Auto-generated method stub
 		System.out.println("Hello a!");
 		System.out.println("modify a.java in master!");
+		System.out.println("modify a.java in devB!");
 	}
 
 }
